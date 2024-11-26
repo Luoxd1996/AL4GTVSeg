@@ -4,7 +4,7 @@
 ## Notes
 * The implementation of this work can be found at [here](https://github.com/whq-xxh/SFADA-GTV-Seg).
 * The multi-center dataset can be downloaded at [here](https://github.com/whq-xxh/SFADA-GTV-Seg) and multi-rater dataset can be downloaded at [here](https://mmis2024.com/).
-* 
+
 ## Reference
 * This project was initially developed for our previous works, if you find it's useful for your research, please consider citing the followings:
 
